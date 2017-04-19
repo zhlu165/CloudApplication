@@ -1,0 +1,8 @@
+/Users/Lulu/Documents/OSU/ACCTMIS 3610/ACCTMIS3610/CloudApplication/bin/Debug/netcoreapp1.1/CloudApplication.deps.json
+/Users/Lulu/Documents/OSU/ACCTMIS 3610/ACCTMIS3610/CloudApplication/bin/Debug/netcoreapp1.1/CloudApplication.runtimeconfig.json
+/Users/Lulu/Documents/OSU/ACCTMIS 3610/ACCTMIS3610/CloudApplication/bin/Debug/netcoreapp1.1/CloudApplication.runtimeconfig.dev.json
+/Users/Lulu/Documents/OSU/ACCTMIS 3610/ACCTMIS3610/CloudApplication/bin/Debug/netcoreapp1.1/CloudApplication.dll
+/Users/Lulu/Documents/OSU/ACCTMIS 3610/ACCTMIS3610/CloudApplication/bin/Debug/netcoreapp1.1/CloudApplication.pdb
+/Users/Lulu/Documents/OSU/ACCTMIS 3610/ACCTMIS3610/CloudApplication/obj/Debug/netcoreapp1.1/CloudApplication.AssemblyInfo.cs
+/Users/Lulu/Documents/OSU/ACCTMIS 3610/ACCTMIS3610/CloudApplication/obj/Debug/netcoreapp1.1/CloudApplication.dll
+/Users/Lulu/Documents/OSU/ACCTMIS 3610/ACCTMIS3610/CloudApplication/obj/Debug/netcoreapp1.1/CloudApplication.pdb
